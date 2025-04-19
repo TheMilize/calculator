@@ -3,7 +3,7 @@
 A modern calculator with realistic button press effects and sleek design.  
 Современный калькулятор с реалистичными эффектами нажатия клавиш и стильным дизайном.
 
-![Calculator Preview](calculator.png)
+![Calculator Preview](src/assets/calculator.png)
 
 ## Features / Особенности
 - Realistic button press effects / Реалистичные эффекты нажатия клавиш
